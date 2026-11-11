@@ -53,19 +53,19 @@ Models are often accepted because the documentation shows a good Gini. Nobody re
 
 ## Deliverables
 
-Everything opens from **one file**, `00_START_HERE`, in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them.
+Everything opens from **one file**, *Start here* (no. 1), in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them. PowerPoint and Excel files open in the browser through Microsoft's free online viewer; *download* gives the original file.
 
 | # | File | Format | What it is |
 |---|---|---|---|
-| 00 | [Start here](https://abduwars.github.io/proquant-05-model-validation/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
-| 01 | [Report](sample-delivery/01_DemoClient_ModelValidation_Report_v1.0_20261111.pdf) | PDF | Validation report (~23 pages): opinion, findings, evidence by area, detailed findings |
-| 02 | [Summary](sample-delivery/02_DemoClient_ModelValidation_Summary_v1.0_20261111.pdf) | PDF | One page: the decision, with no charts |
-| 03 | [Presentation](sample-delivery/03_DemoClient_ModelValidation_Presentation_v1.0_20261111.pptx) | PowerPoint | **A full talk**: 14 slides with editable charts and speaker notes, ready to present |
-| 04 | [Results Workbook](sample-delivery/04_DemoClient_ModelValidation_ResultsWorkbook_v1.0_20261111.xlsx) | Excel | **The working file**: a Control panel with live formulas, and every table. Opens on a **Read me** sheet with a linked index |
-| 05 | [Methodology](sample-delivery/05_DemoClient_ModelValidation_Methodology_v1.0_20261111.pdf) | PDF | How the validation was done (for auditors and the regulator) |
-| 06 | [Handover Note](sample-delivery/06_DemoClient_ModelValidation_HandoverNote_v1.0_20261111.pdf) | PDF | What was delivered, opinion, priorities, how to use the findings log |
-| 07 | [Findings Log](sample-delivery/07_DemoClient_ModelValidation_FindingsLog_v1.0_20261111.xlsx) | Excel | **Findings log and remediation tracker** for the model owner: severity, due date, status drop-down, columns for management response and agreed action |
-| 09 | [Dashboard](https://abduwars.github.io/proquant-05-model-validation/sample-delivery/09_DemoClient_ModelValidation_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | **Interactive dashboard in one file**: opens in any browser, explores the data, tries what-ifs and reads the updated tracker |
+| 1 | [Start here](https://abduwars.github.io/proquant-05-model-validation/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
+| 2 | [Report](sample-delivery/01_DemoClient_ModelValidation_Report_v1.0_20261111.pdf) | PDF | Validation report (~23 pages): opinion, findings, evidence by area, detailed findings |
+| 3 | [Summary](sample-delivery/02_DemoClient_ModelValidation_Summary_v1.0_20261111.pdf) | PDF | One page: the decision, with no charts |
+| 4 | [Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-05-model-validation%2Fsample-delivery%2F03_DemoClient_ModelValidation_Presentation_v1.0_20261111.pptx) | PowerPoint · [download](https://raw.githubusercontent.com/AbduWars/proquant-05-model-validation/main/sample-delivery/03_DemoClient_ModelValidation_Presentation_v1.0_20261111.pptx) | **A full talk**: 14 slides with editable charts and speaker notes, ready to present |
+| 5 | [Results Workbook](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-05-model-validation%2Fsample-delivery%2F04_DemoClient_ModelValidation_ResultsWorkbook_v1.0_20261111.xlsx) | Excel · [download](https://raw.githubusercontent.com/AbduWars/proquant-05-model-validation/main/sample-delivery/04_DemoClient_ModelValidation_ResultsWorkbook_v1.0_20261111.xlsx) | **The working file**: a Control panel with live formulas, and every table. Opens on a **Read me** sheet with a linked index |
+| 6 | [Methodology](sample-delivery/05_DemoClient_ModelValidation_Methodology_v1.0_20261111.pdf) | PDF | How the validation was done (for auditors and the regulator) |
+| 7 | [Handover Note](sample-delivery/06_DemoClient_ModelValidation_HandoverNote_v1.0_20261111.pdf) | PDF | What was delivered, opinion, priorities, how to use the findings log |
+| 8 | [Findings Log](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-05-model-validation%2Fsample-delivery%2F07_DemoClient_ModelValidation_FindingsLog_v1.0_20261111.xlsx) | Excel · [download](https://raw.githubusercontent.com/AbduWars/proquant-05-model-validation/main/sample-delivery/07_DemoClient_ModelValidation_FindingsLog_v1.0_20261111.xlsx) | **Findings log and remediation tracker** for the model owner: severity, due date, status drop-down, columns for management response and agreed action |
+| 9 | [Dashboard](https://abduwars.github.io/proquant-05-model-validation/sample-delivery/09_DemoClient_ModelValidation_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | **Interactive dashboard in one file**: opens in any browser, explores the data, tries what-ifs and reads the updated tracker |
 
 **Delivered to clients only, not in this showcase:** replication pack (re-run script).
 
